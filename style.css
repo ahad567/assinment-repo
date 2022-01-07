@@ -4,7 +4,35 @@
 section{
     display: flex;
 }
-.weidh[
+.weidh{
     width:50%;
-    ]
-]
+    padding-left: 50px;
+}
+.weidh img{
+width: 60%;    
+}
+.batton{
+    background-color: yellowgreen;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+   
+}
+    span{
+        color: yellow;
+
+    }
+    .image1{
+        width: 30%;
+    }
+    .image{ 
+        margin-left: 10px;
+        margin-right: 10px;
+        box-shadow: 10px 10px 40px;
+        display: flex:
+         width:30%;
+         padding-left:5px;
+         padding-right:5px;
+         border: radius 10px;
+    }
